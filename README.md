@@ -1,1 +1,1 @@
-propetech
+propetechについて
